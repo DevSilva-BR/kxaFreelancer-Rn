@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247184111745",
+    "firebase_url": "https://kxafreelancer-default-rtdb.firebaseio.com",
+    "project_id": "kxafreelancer",
+    "storage_bucket": "kxafreelancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247184111745:android:f8a13bc556aeb186877580",
+        "android_client_info": {
+          "package_name": "com.kxafreelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247184111745-mriesnrg2iepdcqq3nrte7pf4831nigj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56rpsKBdzQcmoFZ2Oj3BoLsqYQvk86Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247184111745-mriesnrg2iepdcqq3nrte7pf4831nigj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
