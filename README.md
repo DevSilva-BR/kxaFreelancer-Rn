@@ -9,21 +9,22 @@ sua localidade tendo liberdade para conversa e combina valores mais livres com o
 profissional
 ## Screenshots
 
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/1.jpeg?raw=true)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/2.jpeg?raw=true)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/3.jpeg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/00.jpg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/1.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/2.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/3.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/4.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/5.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/6.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/7.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/8.png)
 
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/5.jpeg)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/6.jpeg?raw=true)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/89.jpeg?raw=true)
-
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/Imagem1.png)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/8.jpeg)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/0.jpeg)
-
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/WhatsApp%20Image%202022-12-31%20at%2018.11.05%20(1).jpeg)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/WhatsApp%20Image%202022-12-31%20at%2018.11.05.jpeg)
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/7.jpeg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/01.jpg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/02.jpg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/03.jpg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/05.jpg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/04.jpg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/06.jpg?raw=true)
 
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
