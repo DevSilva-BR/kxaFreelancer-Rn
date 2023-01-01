@@ -7,6 +7,8 @@ está inserido mostrando trabalhos e serviços com sua localização em tempo re
 uma maior autonomia do usuário de busca e disponibiliza profissionais próximo da
 sua localidade tendo liberdade para conversa e combina valores mais livres com o
 profissional
+# ** Atenção **
+Todos os dados visto sao falsos foram usando para demostração do funcionamento do sistema
 ## Screenshots
 
 ![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/00.jpg)
