@@ -9,8 +9,21 @@ sua localidade tendo liberdade para conversa e combina valores mais livres com o
 profissional
 ## Screenshots
 
-![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/assets/icon.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/1.jpeg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/2.jpeg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/3.jpeg?raw=true)
 
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/5.jpeg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/6.jpeg?raw=true)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/89.jpeg?raw=true)
+
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/Imagem1.png)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/8.jpeg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/0.jpeg)
+
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/WhatsApp%20Image%202022-12-31%20at%2018.11.05%20(1).jpeg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/WhatsApp%20Image%202022-12-31%20at%2018.11.05.jpeg)
+![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/7.jpeg)
 
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
