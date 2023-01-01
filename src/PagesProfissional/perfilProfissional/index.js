@@ -38,7 +38,7 @@ export default function PerfilProfissional(props) {
     const Deleta = async () => {
         setSpinner(true);
         const collectionRef = firebase.firestore();
-        await collectionRef.collection("profissional").doc(userData.id).delete();
+        await collectionRef.collection("usuario").doc(userData.id).delete();
         const user = firebase.auth().currentUser;
         user.delete()
             .then(function () {

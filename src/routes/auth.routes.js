@@ -18,13 +18,13 @@ export default function AuthRoutes() {
             />
 
             <Stack.Screen
-                name="LoginUsuarios"
-                component={LoginUsuarios}
+                name="LoginProfissional"
+                component={LoginProfissional}
                 options={{ headerShown: false }}
             />
             <Stack.Screen
-                name="CadastroUsuarios"
-                component={CadastroUsuarios}
+                name="CadastroProfissional"
+                component={CadastroProfissional}
                 options={{ headerShown: false }}
             />
 

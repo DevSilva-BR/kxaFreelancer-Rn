@@ -32,7 +32,7 @@ export default function SplashScreen({ navigation }) {
                     <View style={Estilo.button}>
                         <TouchableOpacity
                             onPress={() =>
-                                navigation.navigate("LoginUsuarios")
+                                navigation.navigate("LoginProfissional")
                             }
                         >
                             <Text style={Estilo.textSign}>Começa </Text>
