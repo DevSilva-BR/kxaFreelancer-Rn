@@ -8,7 +8,7 @@ uma maior autonomia do usuário de busca e disponibiliza profissionais próximo 
 sua localidade tendo liberdade para conversa e combina valores mais livres com o
 profissional
 # ** Atenção **
-Todos os dados visto sao falsos foram usando para demostração do funcionamento do sistema
+Todos os dados visto sâo falsos foram usando para demostração do funcionamento do sistema
 ## Screenshots
 
 ![App Screenshot](https://github.com/DevSilva-BR/kxaFreelancer-Rn/blob/main/midia/00.jpg)
